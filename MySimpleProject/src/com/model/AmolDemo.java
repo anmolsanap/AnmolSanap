@@ -6,4 +6,9 @@ public class AmolDemo {
 	{
 		System.out.println("m1--AmolDemo");
 	}
+
+	public static void main(String args[])
+	{
+		System.out.println("main method--AmolDemo");
+	}
 }
