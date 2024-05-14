@@ -6,4 +6,8 @@ public class AmolDemo {
 	{
 		System.out.println("m1--AmolDemo");
 	}
+	public void m2()
+	{
+		System.out.println("m2--AmolDemo");
+	}
 }
